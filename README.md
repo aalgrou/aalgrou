@@ -69,7 +69,7 @@
 
 ### StarDev Ranking
 
-[![Check out aalgrou's profile on stardev.io](https://stardev.io/developers/aalgrou/badge/languages/global.svg)](https://stardev.io/developers/aalgrou)
+[![Check out aalgrou's profile on stardev.io](https://stardev.io/developers/aalgrou/badge/languages/locality.svg)](https://stardev.io/developers/aalgrou)
 ---
 
 
