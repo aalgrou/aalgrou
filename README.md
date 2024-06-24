@@ -76,10 +76,10 @@
 ### Top Repositories
 
 
-<a href="https://github.com/aalgrou/developer-portfolio">
+<a href="https://github.com/aalgrou/abp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalgrou&repo=abp&theme=algolia" />
 </a>
-<a href="https://github.com/aalgrou/Express-Postgres-blog">
+<a href="https://github.com/aalgrou/DatabaseOperations">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalgrou&repo=DatabaseOperations&theme=algolia" />
 </a>
 
