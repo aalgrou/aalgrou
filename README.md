@@ -77,10 +77,10 @@
 
 
 <a href="https://github.com/aalgrou/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalgrou&repo=developer-portfolio&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalgrou&repo=abp&theme=algolia" />
 </a>
 <a href="https://github.com/aalgrou/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalgrou&repo=Express-Postgres-blog&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalgrou&repo=DatabaseOperations&theme=algolia" />
 </a>
 
 <!--
